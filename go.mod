@@ -1,3 +1,3 @@
-module monkeyparser
+module monkey
 
 go 1.25
